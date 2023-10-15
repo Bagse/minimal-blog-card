@@ -1,4 +1,6 @@
-# React + Vite
+![image](https://github.com/Bagse/minimal-blog-card/assets/102260190/1db10f02-8e51-4886-af18-8f299bf7b05f)
+
+# Minimal Blog Card
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
